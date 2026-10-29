@@ -1,0 +1,9 @@
+cofre.json
+salt.key
+.venv/
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+results/
+*.pyc
