@@ -1,0 +1,1 @@
+"""Local encrypted vault: service, storage, cryptography, and CLI."""
