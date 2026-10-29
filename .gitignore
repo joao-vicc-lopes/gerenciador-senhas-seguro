@@ -1,5 +1,8 @@
 cofre.json
 salt.key
+*.json.bak
+*.json.lock
+*.key.lock
 .venv/
 __pycache__/
 .pytest_cache/
